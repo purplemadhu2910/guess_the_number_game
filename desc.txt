@@ -1,0 +1,16 @@
+# Guess the Number Game
+A fun interactive game where users guess a number between 1 and 6, built using:
+- HTML
+- CSS
+- JavaScript
+- Python (Flask)
+
+## Features
+- Real-time feedback on guesses (too high, too low, correct!)
+- Styled interface using CSS
+- Backend logic powered by Python Flask
+
+## How to Run
+1. Clone the repository: `git clone https://github.com/your-username/your-repo-name.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the Flask app: `python gng.py`
